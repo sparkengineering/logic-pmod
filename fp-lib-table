@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "logic-pmod")(type "KiCad")(uri "${KIPRJMOD}/logic-pmod.pretty")(options "")(descr ""))
+)

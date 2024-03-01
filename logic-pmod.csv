@@ -1,0 +1,5 @@
+"Reference","Value","Footprint","Qty","DNP","MFG","MPN","OC_Mouser","OC_LCSC"
+"C1,C2,C3,C4,C5,C6,C7,C8","100nF","Capacitor_SMD:C_0402_1005Metric","8","","Murata Electronics","GRM155R61A104JA01D","81-GRM155R61A104JA1D","C177144"
+"J1","Conn_02x06_Odd_Even","logic-pmod:PinHeader_2x06_P2.54mm_Horizontal","1","","TE Connectivity","826634-6","571-826634-6","~"
+"J2","Conn_02x05_Odd_Even","logic-pmod:IDC-Header_2x05_P2.54mm_Vertical","1","","TE Connectivity","1761681-3","571-1761681-3","C573025"
+"U1,U2,U3,U4,U5,U6,U7,U8","SN74LV1T34DBV","Package_TO_SOT_SMD:SOT-23-5","8","","Texas Instruments","SN74LV1T34QDBVRQ1","595-N74LV1T34QDBVRQ1","~"
